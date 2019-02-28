@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# VS code debug
+
+/.vscode/
+
+# DS_Store
+
+.DS_Store
